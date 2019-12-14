@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Johanna",
+    "levelOfCompetence": 15,
+    "status": "ACCEPTED",
+    "departmentName": "MARKETING",
+    "gender": "F"
+  },
+  {
+    "name": "Jessica",
+    "levelOfCompetence": 11,
+    "status": "ACCEPTED",
+    "departmentName": "MARKETING",
+    "gender": "F"
+  },
+  {
+    "name": "John",
+    "levelOfCompetence": 10,
+    "status": "ACCEPTED",
+    "departmentName": "MARKETING",
+    "gender": "M"
+  },
+  {
+    "name": "Johnny",
+    "levelOfCompetence": 11,
+    "status": "ACCEPTED",
+    "departmentName": "MARKETING",
+    "gender": "M"
+  }
+
+
+
+
+]
